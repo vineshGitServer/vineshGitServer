@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vineshGitServer
-- 👀 I’m interested in Data Analytics, ML, Gen AI, Research 
+- 👀  ML, Gen AI, Research Cryptography.
 - 💞️ I’m looking to collaborate on Business Intelligence & Data Science 
-- 📫 reach me vineshreddy116@gmail.com, https://www.linkedin.com/in/vinesh-reddy-13875a1b8/
+- 📫 reach me vineshreddy116@gmail.com
   
 
 <!---
